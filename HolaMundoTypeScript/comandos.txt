@@ -1,0 +1,8 @@
+1. Tener instalado nvm o nodeJS
+2. Exec: npm install -g typescript
+3. mkdir HolaMundoTypeScript
+4. cd HolaMundoTypeScript
+5. code //para abrir el editor de código
+6. Para compilar tsc archivo.js o tsc archivo
+7. tsc init
+8. tsc -w //para observar los cambios
